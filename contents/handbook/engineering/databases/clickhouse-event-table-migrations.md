@@ -24,7 +24,7 @@ Desired goals on the migration:
 
 The rough migration strategy looks like this:
 
-<details><summary>1. Create a new staging table _without_ materialized columns on on 1 node on each of the shards.</summary>
+<details><summary>1. Create a new staging table _without_ materialized columns on 1 node on each of the shards.</summary>
 
 ```sql
 CREATE TABLE posthog.sharded_events_ordered_by_event(
