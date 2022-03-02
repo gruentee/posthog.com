@@ -1,5 +1,5 @@
 ---
-title: Clickhouse event table migrations
+title: ClickHouse event table migrations
 sidebar: Handbook
 showTitle: true
 ---
